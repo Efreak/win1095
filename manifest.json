@@ -43,6 +43,16 @@
       "src": "/win1095/icon256.webp",
       "sizes": "256x256",
       "type": "image/webp"
+    },
+    {
+      "src": "/win1095/icon512.webp",
+      "sizes": "256x256",
+      "type": "image/webp"
+    },
+    {
+      "src": "/win1095/icon512.png",
+      "sizes": "256x256",
+      "type": "image/webp"
     }
   ]
 }
